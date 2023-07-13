@@ -21,7 +21,7 @@
     "antiDelete": false,
     "autobio": true,
     "anticall": true,
-    "autorespond": true,
+    "autorespond": false,
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
